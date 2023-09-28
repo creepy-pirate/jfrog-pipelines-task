@@ -1,8 +1,8 @@
-taskName:
+taskName: newTask1234
 primaryResource:
-gitProvider:
+gitProvider: deepak_git
 artifactory: int_default_artifactory # rename if the artifactory integration is different
-repoPath:
+repoPath: creepy-pirate/jfrog-pipelines-task
 mainBranch: main
 protocol: https
 buildOnCommit: True
